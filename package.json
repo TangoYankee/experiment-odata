@@ -1,0 +1,19 @@
+{
+  "name": "experiment-odata",
+  "version": "0.1.0",
+  "description": "Experimental generation of odata models from metadata",
+  "main": "main.ts",
+  "scripts": {
+    "gen-odata": "odata2ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "odata"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@odata2ts/odata2ts": "^0.38.1"
+  }
+}
